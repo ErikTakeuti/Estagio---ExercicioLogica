@@ -4,7 +4,7 @@
 
 ### [-Questão 2:](https://github.com/ErikTakeuti/GFX---Estagio/blob/main/Quest%C3%B5es%20de%20L%C3%B3gica%20-%20GFX/Q2.por)Ler o salário fixo e o valor das vendas efetuadas pelo vendedor de uma empresa. Sabendo-se que ele recebe uma comissão de 3% sobre o total das vendas até R$ 1.500,00 mais 5% sobre o que ultrapassar este valor, calcular e escrever o seu salário total.
 
-### [-Questão 3:](https://github.com/ErikTakeuti/GFX---Estagio/blob/main/Quest%C3%B5es%20de%20L%C3%B3gica%20-%20GFX/Q3.por)
+### [-Questão 3:](https://github.com/ErikTakeuti/GFX---Estagio/blob/main/Quest%C3%B5es%20de%20L%C3%B3gica%20-%20GFX/Q3.por)Faça um algoritmo para ler: número da conta do cliente, saldo, débito e crédito. Após, calcular e escrever o saldo atual (saldo atual = saldo - débito + crédito). Também testar se saldo atual for maior ou igual a zero escrever a mensagem 'Saldo Positivo', senão escrever a mensagem 'Saldo Negativo'.
 
 ### [-Questão 4:](https://github.com/ErikTakeuti/GFX---Estagio/blob/main/Quest%C3%B5es%20de%20L%C3%B3gica%20-%20GFX/Q4.por)
 
