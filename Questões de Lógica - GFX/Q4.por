@@ -1,17 +1,19 @@
 programa {
 	funcao inicio() {
-		inteiro q_maxima, q_minima, estoque_a = 1500
+		inteiro q_maxima, q_minima, estoque_a
 
-escreva("Digite a quantidade máxima: ")
+escreva("Digite o seu estoque atual: ")
+leia(estoque_a)
+escreva("Digite a quantidade mÃ¡xima: ")
 leia(q_maxima)
-escreva("Digite a quantidade miníma: ")
+escreva("Digite a quantidade minÃ­ma: ")
 leia(q_minima)
 
 real q_media = (q_maxima + q_minima) / 2.0
-escreva("A quantidade média é: " ,q_media)
+escreva("A quantidade mÃ©dia Ã©: " ,q_media)
 
 se(estoque_a >= q_media){
-	escreva("Compra não pode ser efetuada")
+	escreva("Compra nÃ£o pode ser efetuada")
 }
 senao{
 	escreva("Compra pode ser efetuada")
