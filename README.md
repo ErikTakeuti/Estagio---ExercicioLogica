@@ -6,8 +6,7 @@
 
 ### [-Questão 3:](https://github.com/ErikTakeuti/GFX---Estagio/blob/main/Quest%C3%B5es%20de%20L%C3%B3gica%20-%20GFX/Q3.por)Faça um algoritmo para ler: número da conta do cliente, saldo, débito e crédito. Após, calcular e escrever o saldo atual (saldo atual = saldo - débito + crédito). Também testar se saldo atual for maior ou igual a zero escrever a mensagem 'Saldo Positivo', senão escrever a mensagem 'Saldo Negativo'.
 
-### [-Questão 4:](https://github.com/ErikTakeuti/GFX---Estagio/blob/main/Quest%C3%B5es%20de%20L%C3%B3gica%20-%20GFX/Q4.por)Faça um algoritmo para ler: quantidade atual em estoque, quantidade máxima em estoque e quantidade mínima em estoque de um produto. Calcular e escrever a quantidade média ((quantidade média = quantidade máxima + quantidade mínima) / 2). 
-Se a quantidade em estoque for maior ou igual a quantidade média escrever a mensagem 'Não efetuar compra', senão escrever a mensagem 'Efetuar compra'.
+### [-Questão 4:](https://github.com/ErikTakeuti/GFX---Estagio/blob/main/Quest%C3%B5es%20de%20L%C3%B3gica%20-%20GFX/Q4.por)Faça um algoritmo para ler: quantidade atual em estoque, quantidade máxima em estoque e quantidade mínima em estoque de um produto. Calcular e escrever a quantidade média ((quantidade média = quantidade máxima + quantidade mínima) / 2). Se a quantidade em estoque for maior ou igual a quantidade média escrever a mensagem 'Não efetuar compra', senão escrever a mensagem 'Efetuar compra'.
 
 ### [-Questão 5:](https://github.com/ErikTakeuti/GFX---Estagio/blob/main/Quest%C3%B5es%20de%20L%C3%B3gica%20-%20GFX/Q5.por)
 
